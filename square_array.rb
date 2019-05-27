@@ -1,5 +1,4 @@
 def square_array(array)
-  square_array = []
   counter = 0
   array.each do |index|
     array[counter] = index**2
